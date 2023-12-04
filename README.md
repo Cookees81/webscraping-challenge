@@ -1,5 +1,7 @@
 # webscraping-challenge
-
+Watched class Zoom meeting from November 15, 2023 (Data-11.3-Data-Collection-Automated Browsing) to familiarize myself with process.
+12/3/2023: Extra characters appear in lists between items: \n 
+going to reache out for assistance 
 
 
 
