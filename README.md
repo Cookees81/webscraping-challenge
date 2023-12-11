@@ -1,7 +1,8 @@
 # webscraping-challenge
 Watched class Zoom meeting from November 15, 2023 (Data-11.3-Data-Collection-Automated Browsing) to familiarize myself with process.
 12/3/2023: Extra characters appear in lists between items: \n 
-going to reache out for assistance 
+Update: Asked Instructor Khaled Karman for help during office hours 12/4/2023 with "\n". Advised to use ".strip()". Also asked about duplicate answers I was receiving. Advised that either cell containing "article" or "text_info" solution would work.
+"\n" still appeared in result for Part 1. I'm leaving it as it helps to denote where a new line would start.  
 
 
 
